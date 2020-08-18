@@ -1,7 +1,6 @@
 <p align="center">
 		<img src="./.github/logo.svg" width="600" alt="Logo">
-	</a><br>
-    Quickly give your app a native feel using Tailwind Utility Classes.
+	</a>
 </p>
 
 
