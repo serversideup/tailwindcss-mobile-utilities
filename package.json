@@ -1,0 +1,25 @@
+{
+  "name": "tailwindcss-mobile-utilities",
+  "version": "0.0.1",
+  "description": "Quickly give your app a native feel using Tailwind Utility Classes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serversideup/tailwindcss-mobile-utilities.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "mobile",
+    "html",
+    "css"
+  ],
+  "author": "Server Side Up",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serversideup/tailwindcss-mobile-utilities/issues"
+  },
+  "homepage": "https://github.com/serversideup/tailwindcss-mobile-utilities#readme"
+}
